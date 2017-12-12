@@ -12,11 +12,11 @@ I am a **data science enthusiast**. Mastered data science at divergence academy'
 
 # Education
 
-MA Economics/Finance at [Kenst State University, Kent OH](https://www.kent.edu/)
+MA Economics/Finance at [Kent State University](https://www.kent.edu/), Kent OH
 
-# Experience
+# Experience and Knowledge
 
-Software quality assurance and linux system admin.
+Software quality assurance, linux system admin and cloud technologies.
 
 # Hobbies
 
