@@ -8,7 +8,7 @@ My name is Jide Omoniyi.
 
 # Current 
 
-I am a **data science enthusiast**. Mastered data science at divergence academy's data science immersive program.
+I am a **data science enthusiast**. Learned data science at divergence academy's data science immersive program.
 
 # Education
 
